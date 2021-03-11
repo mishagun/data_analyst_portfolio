@@ -1,0 +1,2 @@
+There can be found project as Jupiter Notebook, datasets in separate folder and additional files in each project folder.
+There is also extra folder "projects_pdf", that contains all projects as PDF files.
